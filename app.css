@@ -1,0 +1,18 @@
+table {
+    border: 3px solid black;
+}
+td button {
+    height: 85%;
+    width: 85%;
+
+}
+td {
+    text-align: center;
+    height: 27px;
+}
+td:nth-child(1) {
+    width: 50px;
+}
+td:nth-child(2), td:nth-child(3), td:nth-child(4) {
+    width: 30px;
+}
